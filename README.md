@@ -4,9 +4,9 @@
 
 ## Schedules
 1. Introduction to Computer Vision, historical context (Mo, KH)
-⋅⋅* Slide
-⋅⋅* Video
+  * Slide
+  * Video
 
 2. Image classification, k-NN, and Linear classification I (Seo, DS)
-..* Slide
-..* Video
+  * Slide
+  * Video
