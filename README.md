@@ -1,6 +1,7 @@
 # DSBA Lab Seminar with cs231n @Stanford
 
 ## Convolutional Neural Networks for Visual Recognition
+Original course homepage: http://cs231n.stanford.edu/
 
 ## Schedules
 1. Introduction to Computer Vision, historical context (Mo, KH)
