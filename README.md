@@ -3,10 +3,10 @@
 ## Convolutional Neural Networks for Visual Recognition
 
 ## Schedules
-* Introduction to Computer Vision, historical context (Mo, KH)
+1. Introduction to Computer Vision, historical context (Mo, KH)
 ..* Slide
 ..* Video
 
-* Image classification, k-NN, and Linear classification I (Seo, DS)
+2. Image classification, k-NN, and Linear classification I (Seo, DS)
 ..* Slide
 ..* Video
