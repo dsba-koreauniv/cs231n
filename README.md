@@ -23,14 +23,14 @@ Original course homepage: http://cs231n.stanford.edu/
 9. Understanding and visualizing Convolutional Neural Networks Backprop into image (Kim, DH)
   - [Slide](/Slide/CS231n seminar - 9. visualization - 김동화.pptx) with presentation
 10. Recurrent Neural Networks (Lee, GC)
-- [Slide](/Slide/CS231n seminar - 10. RNN and LSTM - 이기창.pdf) with presentation
+ - [Slide](/Slide/CS231n seminar - 10. RNN and LSTM - 이기창.pdf) with presentation
 11. Training ConvNets in practice ([Seo, DS](https://github.com/DeokO))
-   - [Slide](/Slide/CS231n seminar - 11. CNN in practice - 서덕성.pdf) with presentation
+  - [Slide](/Slide/CS231n seminar - 11. CNN in practice - 서덕성.pdf) with presentation
 12. Overview of Caffe/Torch/Theano/TensorFlow
-   - Skip
+  - Skip
 13. Segmentation, Soft attention models, Spatial transformer networks ([Park, JS](https://github.com/Jaesuny))
-   - [Slide](/Slide/CS231n seminar - 13. Segmentation and attention- 박재선.pdf) with presentation
+  - [Slide](/Slide/CS231n seminar - 13. Segmentation and attention- 박재선.pdf) with presentation
 14. ConvNets for videos Unsupervised learning (Kim, DH)
-   - [Slide](/Slide/) with presentation
+  - [Slide](/Slide/) with presentation
 15. Invited Talk by Jeff Dean
-   - Skip
+  - Skip
