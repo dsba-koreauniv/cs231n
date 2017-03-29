@@ -9,7 +9,7 @@ Original course homepage: http://cs231n.stanford.edu/
 
 ## Schedules
 1. Introduction to Computer Vision, historical context (Mo, KH)
-  - [Slide](Slide/%20) with presentation
+    - [Slide](Slide/%20) with presentation
 2. Image classification, k-NN, and Linear classification I ([Seo, DS](https://github.com/DeokO))
   - [Slide](Slide/02.Image-Classification-pipeline_서덕성.zip) with presentation
 3. Linear classification II Higher-level representations, image features Optimization, stochastic gradient descent ([Kim, CY](https://github.com/czangyeob))
@@ -27,7 +27,7 @@ Original course homepage: http://cs231n.stanford.edu/
 9. Understanding and visualizing Convolutional Neural Networks Backprop into image (Kim, DH)
   - [Slide](Slide/09.visualization_김동화.pptx) with presentation
 10. Recurrent Neural Networks (Lee, GC)
-  - [Slide](Slide/10.RNN-and-LSTM_이기창.pdf) with presentation
+ - [Slide](Slide/10.RNN-and-LSTM_이기창.pdf) with presentation
 11. Training ConvNets in practice ([Seo, DS](https://github.com/DeokO))
   - [Slide](Slide/11.CNN-in-practice_서덕성.pdf) with presentation
 12. Overview of Caffe/Torch/Theano/TensorFlow
