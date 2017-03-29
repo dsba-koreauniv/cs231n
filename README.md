@@ -27,7 +27,7 @@ Original course homepage: http://cs231n.stanford.edu/
 9. Understanding and visualizing Convolutional Neural Networks Backprop into image (Kim, DH)
     - [Slide](Slide/09.visualization_김동화.pptx) with presentation
 10. Recurrent Neural Networks (Lee, GC)
-   - [Slide](Slide/10.RNN-and-LSTM_이기창.pdf) with presentation
+    - [Slide](Slide/10.RNN-and-LSTM_이기창.pdf) with presentation
 11. Training ConvNets in practice ([Seo, DS](https://github.com/DeokO))
     - [Slide](Slide/11.CNN-in-practice_서덕성.pdf) with presentation
 12. Overview of Caffe/Torch/Theano/TensorFlow
